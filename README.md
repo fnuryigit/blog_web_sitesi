@@ -1,7 +1,3 @@
-# blog_web_sitesi
-# Tribute_Website
-
-=======
  Blog Web Sitesi
 
 Bu proje, basit bir HTML ve CSS kullanılarak hazırlanmış kişisel blog web sitesidir.  
